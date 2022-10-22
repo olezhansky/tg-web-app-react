@@ -12,6 +12,7 @@ const products = [
   { id: 5, title: "title5", price: 8000, description: "description5" },
   { id: 6, title: "title6", price: 8000, description: "description6" },
   { id: 7, title: "title7", price: 8000, description: "description7" },
+  { id: 7, title: "title7", price: 8000, description: "description7" },
 ];
 
 const getTotalPrice = (products) => {
